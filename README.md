@@ -24,4 +24,6 @@ This project has been tested on both the [TeensyLC](https://www.pjrc.com/store/t
 
 [Hall Effect Sensor](https://www.amazon.com/EPLZON-Effect-Magnetic-Detector-Arduino/dp/B09PG3PGH6/ref=sr_1_5?keywords=hall+effect+sensor&qid=1689473538&sprefix=hall+effec%252Caps%252C90&sr=8-5&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=30fa2cacb817152a0621de3b455e0dd0&camp=1789&creative=9325)
 
+[Buzzer](https://www.amazon.com/Gikfun-Active-Magnetic-Continous-Arduino/dp/B01FVZQ6F6/ref=sr_1_7?crid=20FNFB425N83R&keywords=buzzer&qid=1689473652&s=electronics&sprefix=buzzer%252Celectronics%252C92&sr=1-7&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=cb8f8c632d6e9e5b3e88bc641b620b0e&camp=1789&creative=9325)
+
 [Power Supply](https://www.amazon.com/Henxlco-AC100-240V-Converter-Transformer-Light%25EF%25BC%258CCCTV/dp/B0BFLYDKKD/ref=sr_1_5?keywords=5v+5a+power+supply&qid=1689473427&sr=8-5&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=daecbbd7fe8cc2183ef626ae9937c0fa&camp=1789&creative=9325)

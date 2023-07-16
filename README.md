@@ -4,7 +4,7 @@ An Arduino based smart lock that also controls a LED strip. The LEDs react to yo
 
 ![img](https://github.com/jaisondasika/fingerprint-smart-lock/blob/main/teaser.gif)
 
-### [Full video here](https://www.youtube.com/c/jaisondasika)
+#### [Full video here](https://youtu.be/2rDJMa5jXOw)
 
 This project has been tested on both the [TeensyLC](https://www.pjrc.com/store/teensylc.html) and [SeeduinoXIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) microcontrollers. The TeensyLC has been in limited supply due to the chip shortage, so I added functionality for the SeeeduinoXIAO board since they are readily available and are a suitable alternative. 
 

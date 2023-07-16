@@ -1,6 +1,6 @@
 # Fingerprint Smart Lock
 
-An Arduino based smart lock that also controls a LED strip. The LEDs react to you based on how close you are to the door and play a fun animation when it is unlocked! This also features anti-theft mode, which alarms if the door is broken open, and anti-pick mode, which vibrates the servo to make lockpicking impossible when it detects it!
+An Arduino based smart lock that also controls a LED strip. The LEDs react to you based on how close you are to the door and play a fun animation when unlocked! This also features anti-theft mode, which alarms if the door is broken open, and anti-pick mode, which vibrates the servo to make lockpicking impossible when detected!
 
 ![img](https://github.com/jaisondasika/fingerprint-smart-lock/blob/main/teaser.gif)
 

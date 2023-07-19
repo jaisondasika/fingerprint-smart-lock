@@ -8,11 +8,6 @@ An Arduino based smart lock that also controls a LED strip. The LEDs react to yo
 
 This project has been tested on both the [TeensyLC](https://www.pjrc.com/store/teensylc.html) and [SeeduinoXIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) microcontrollers. The TeensyLC has been in limited supply due to the chip shortage, so I added functionality for the SeeeduinoXIAO board since they are readily available and are a suitable alternative. 
 
-## Wiring Diagram
-![img](https://github.com/jaisondasika/fingerprint-smart-lock/blob/main/wiringdiagram.jpg)
-
-
-
 ## Parts
 
 [SeeeduinoXIAO](https://www.amazon.com/dp/B08CN5YSQF/ref=twister_B0B3D69QX3?_encoding=UTF8&psc=1&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=36caf4bf0586154bc72e1a42ae450bbe&camp=1789&creative=9325)
@@ -32,3 +27,9 @@ This project has been tested on both the [TeensyLC](https://www.pjrc.com/store/t
 [Buzzer](https://www.amazon.com/Gikfun-Active-Magnetic-Continous-Arduino/dp/B01FVZQ6F6/ref=sr_1_7?crid=20FNFB425N83R&keywords=buzzer&qid=1689473652&s=electronics&sprefix=buzzer%252Celectronics%252C92&sr=1-7&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=cb8f8c632d6e9e5b3e88bc641b620b0e&camp=1789&creative=9325)
 
 [Power Supply](https://www.amazon.com/Henxlco-AC100-240V-Converter-Transformer-Light%25EF%25BC%258CCCTV/dp/B0BFLYDKKD/ref=sr_1_5?keywords=5v+5a+power+supply&qid=1689473427&sr=8-5&_encoding=UTF8&tag=jaisondasika-20&linkCode=ur2&linkId=daecbbd7fe8cc2183ef626ae9937c0fa&camp=1789&creative=9325)
+
+## Wiring Diagram
+![img](https://github.com/jaisondasika/fingerprint-smart-lock/blob/main/wiringdiagram.jpg)
+
+## Other Info
+In order to add fingerprints that unlock the door, you will need to upload the "enroll" sketch to the microcontroller and follow the prompts in the serial monitor. This sketch can be found under file > examples > Adafruit Fingerprint Sensor Library > enroll
